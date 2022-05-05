@@ -4,7 +4,7 @@ This repository serves as the main issue tracker for the Uranus Tools for PlayCa
 
 To get access to the Uranus Tools SDK visit our website [here](https://solargames.io).
 
-For discussion on Uranus Tools and other Solar Games products visit out public [Discord server](https://discord.gg/N7rUAFYJqX).
+For discussion on Uranus Tools and other Solar Games products visit our public [Discord server](https://discord.gg/N7rUAFYJqX).
 
 ![Uranus Tools Wallpaper](images/uranus-tools-wallpaper.jpg)
 
