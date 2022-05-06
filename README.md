@@ -105,7 +105,7 @@ Overrides the internal PlayCanvas shadow renderer to customize how often each sh
 
 #### uranus-effects-skybox.js
 
-A dynamic skybox that features a 24 hours cycle with a sun, moon and stars and procedural 2D clouds. A dynamic skybox that features a 24 hours cycle with a sun, moon and stars and procedural 2D clouds.
+A dynamic skybox that features a 24 hours cycle with a sun, moon and stars and procedural 2D clouds. The skybox renders a cubemap that can be used for IBL (image based lighting) and provide realistic lighting to your scene.
 
 ![uranus-effects-skybox.js](images/uranus-effects-skybox.gif)
 
