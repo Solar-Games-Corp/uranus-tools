@@ -87,7 +87,7 @@ Easily add wind like animations to any model using a powerful additive layers sy
 
 #### uranus-effects-multi-material.js
 
-A powerful extended material that allows you to blend multiple textures on the same model based either on painted vertex colors or provided texture masks. It currenty supports diffuse and normal maps, together with specular/
+A powerful extended material that allows you to blend multiple textures on the same model based either on painted vertex colors or provided texture masks. It currenty supports diffuse and normal maps, together with specular parameters.
 
 ![uranus-effects-multi-material.js](images/uranus-effects-multi-material.jpg)
 
