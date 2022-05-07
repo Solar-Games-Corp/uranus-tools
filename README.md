@@ -13,7 +13,7 @@ For discussion on Uranus Tools and other Solar Games products visit our public [
 A full alphabetical list of the scripts currently included in the Uranus Tools SDK. Documentation for each script is a work in progress coming soon.
 
 - [Editor](#editor)
-    * [uranus-editor-sdk.js](#uranus-editor-sdkjs)
+    * [uranus-editor-sdk.js (EXPERIMENTAL)](#uranus-editor-sdkjs)
 - [Effects](#effects)
     * [uranus-effects-environment-fog.js](#uranus-effects-environment-fogjs)    
     * [uranus-effects-material-distance-fade.js](#uranus-effects-material-distance-fadejs)
@@ -28,7 +28,7 @@ A full alphabetical list of the scripts currently included in the Uranus Tools S
     * [uranus-instancer-cell.js](#uranus-instancer-celljs)
     * [uranus-instancer-data.js](#uranus-instancer-datajs)
     * [uranus-instancer-lod.js](#uranus-instancer-lodjs)
-    * [uranus-instancer-paint.js  (EXPERIMENTAL)](#uranus-instancer-paintjs-experimental)
+    * [uranus-instancer-paint.js (EXPERIMENTAL)](#uranus-instancer-paintjs-experimental)
     * [uranus-instancer.js](#uranus-instancerjs)
 - [Physics](#physics)
     * [uranus-physics-collider.js](#uranus-physics-colliderjs)
@@ -45,7 +45,7 @@ A full alphabetical list of the scripts currently included in the Uranus Tools S
 
 ### Editor
 
-#### uranus-editor-sdk.js
+#### uranus-editor-sdk.js (EXPERIMENTAL)
 
 A battle tested solution to enable editor scripting for any PlayCanvas script.
 
