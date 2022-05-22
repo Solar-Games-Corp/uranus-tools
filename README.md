@@ -20,6 +20,7 @@ A full alphabetical list of the scripts currently included in the Uranus Tools S
     * [uranus-effects-material-surface-color.js](#uranus-effects-material-surface-colorjs)
     * [uranus-effects-material-wind.js](#uranus-effects-material-windjs)
     * [uranus-effects-multi-material.js](#uranus-effects-multi-materialjs)
+    * [uranus-effects-planar-reflections.js](#uranus-effects-planar-reflectionsjs)
     * [uranus-effects-render-surface.js](#uranus-effects-render-surfacejs)
     * [uranus-effects-shadows-timer.js (EXPERIMENTAL)](#uranus-effects-shadows-timerjs-experimental)
     * [uranus-effects-skybox.js](#uranus-effects-skyboxjs)
@@ -30,6 +31,7 @@ A full alphabetical list of the scripts currently included in the Uranus Tools S
     * [uranus-instancer-lod.js](#uranus-instancer-lodjs)
     * [uranus-instancer-paint.js (EXPERIMENTAL)](#uranus-instancer-paintjs-experimental)
     * [uranus-instancer.js](#uranus-instancerjs)
+    * [uranus-instancer.worker.js](#uranus-instancerworkerjs)
 - [Physics](#physics)
     * [uranus-physics-collider.js](#uranus-physics-colliderjs)
 - [Terrain](#terrain)
@@ -90,6 +92,12 @@ Easily add wind like animations to any model using a powerful additive layers sy
 A powerful extended material that allows you to blend multiple textures on the same model based either on painted vertex colors or provided texture masks. It currenty supports diffuse and normal maps, together with specular parameters.
 
 ![uranus-effects-multi-material.js](images/uranus-effects-multi-material.jpg)
+
+#### uranus-effects-planar-reflections.js
+
+An easy to use script to easily render reflections on any planar surface.
+
+![uranus-effects-planar-reflections.js](images/uranus-effects-planar-reflections.jpg)
 
 #### uranus-effects-render-surface.js
 
@@ -154,6 +162,10 @@ A plug and play hardware instancing solution that can easily reduce the draw cal
 GPU instancing automatically groups all models by their mesh and material to reduce the number of draw calls rendered to the minimum.
 
 ![uranus-instancer.js](images/uranus-instancer.jpg)
+
+#### uranus-instancer.worker.js
+
+Web worker used by `uranus-instancer.js`.
 
 ### Physics
 
